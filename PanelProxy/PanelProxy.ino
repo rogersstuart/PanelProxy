@@ -3,7 +3,7 @@
 #include <EthernetServer.h>
 #include <EthernetClient.h>
 #include <Ethernet.h>
-#include "MasterControllerV2_EVMOD_NETPORT.h"
+#include "PanelProxy.h"
 #include <SoftwareSerial.h>
 #include <Wire.h>
 #include <EEPROM.h>
